@@ -1,0 +1,16 @@
+{
+  "name": "La Queen · Punto de Venta",
+  "short_name": "La Queen POS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101010",
+  "theme_color": "#d71920",
+  "lang": "es-MX",
+  "description": "Punto de venta La Queen Tortas Gigantes",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
